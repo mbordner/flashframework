@@ -2,7 +2,7 @@ package net.bordnerd.course {
 	import net.bordnerd.activity.RootActivity;
 
 	/**
-	 * @author Michael Bordner <mike.bordner@sap.com> (i828675)
+	 * @author mbordner <mbordner@gmail.com>
 	 */
 	public class Course extends RootActivity {
 		public function Course() {

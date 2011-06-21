@@ -4,7 +4,7 @@ package net.bordnerd.course {
 	import flash.text.StyleSheet;
 
 	/**
-	 * @author Michael Bordner <mike.bordner@sap.com> (i828675)
+	 * @author mbordner <mbordner@gmail.com>
 	 */
 	public class CourseActivity extends Activity {
 		public function CourseActivity(xml : XML = null, css : StyleSheet = null, serializeKey : String = null) {
